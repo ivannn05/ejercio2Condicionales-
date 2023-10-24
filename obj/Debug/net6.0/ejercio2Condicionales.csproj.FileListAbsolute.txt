@@ -1,0 +1,14 @@
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercio2Condicionales\bin\Debug\net6.0\ejercio2Condicionales.exe
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercio2Condicionales\bin\Debug\net6.0\ejercio2Condicionales.deps.json
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercio2Condicionales\bin\Debug\net6.0\ejercio2Condicionales.runtimeconfig.json
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercio2Condicionales\bin\Debug\net6.0\ejercio2Condicionales.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercio2Condicionales\bin\Debug\net6.0\ejercio2Condicionales.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercio2Condicionales\obj\Debug\net6.0\ejercio2Condicionales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercio2Condicionales\obj\Debug\net6.0\ejercio2Condicionales.AssemblyInfoInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercio2Condicionales\obj\Debug\net6.0\ejercio2Condicionales.AssemblyInfo.cs
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercio2Condicionales\obj\Debug\net6.0\ejercio2Condicionales.csproj.CoreCompileInputs.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercio2Condicionales\obj\Debug\net6.0\ejercio2Condicionales.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercio2Condicionales\obj\Debug\net6.0\refint\ejercio2Condicionales.dll
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercio2Condicionales\obj\Debug\net6.0\ejercio2Condicionales.pdb
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercio2Condicionales\obj\Debug\net6.0\ejercio2Condicionales.genruntimeconfig.cache
+C:\Users\csi23-iloposa\Desktop\Programacion\CalculadoraAritmetica\ejercio2Condicionales\obj\Debug\net6.0\ref\ejercio2Condicionales.dll
